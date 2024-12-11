@@ -1,0 +1,46 @@
+﻿# Build results
+bin/
+obj/
+/obj/
+obj/*
+.vs/
+*.dll
+*.exe
+*.log
+*.pdb
+*.cache
+*.ilk
+*.lib
+*.ndk
+*.ds_store
+
+# Rider project files
+.idea/
+
+# macOS and Windows specific files
+*.DS_Store
+Thumbs.db
+
+# Database
+*.sdf
+*.mdf
+
+# Azure Web App publish settings
+*.Publish.xml
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Mono auto generated files
+mono_crash.*
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+.idea_modules.xml
+*.iml
