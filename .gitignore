@@ -1,8 +1,12 @@
 ﻿# Build results
 bin/
-obj/
+obj\
+\obj\
+obj\
+*\Debug\*
 /obj/
-obj/*
+obj/
+
 .vs/
 *.dll
 *.exe
@@ -44,3 +48,4 @@ mono_crash.*
 .idea/
 .idea_modules.xml
 *.iml
+/obj
